@@ -19,15 +19,16 @@
     <icon src="res/andriod/icon.png" />
     <platform name="android">
         <allow-intent href="market:*" />
-        <icon src="res/android/icon.png" density="ldpi" />
-        <icon src="res/android/icon.png" density="mdpi" />
-        <icon src="res/android/icon.png" density="hdpi" />
-        <icon src="res/android/icon.png" density="xhdpi" />
-        <icon src="res/android/icon.png" density="xxhdpi" />
-        <icon src="res/android/icon.png" density="xxxhdpi" />
+        <icon density="ldpi" src="res/android/icon.png" />
+        <icon density="mdpi" src="res/android/icon.png" />
+        <icon density="hdpi" src="res/android/icon.png" />
+        <icon density="xhdpi" src="res/android/icon.png" />
+        <icon density="xxhdpi" src="res/android/icon.png" />
+        <icon density="xxxhdpi" src="res/android/icon.png" />
     </platform>
     <platform name="ios">
         <allow-intent href="itms:*" />
         <allow-intent href="itms-apps:*" />
     </platform>
+    <engine name="android" spec="~6.3.0" />
 </widget>
