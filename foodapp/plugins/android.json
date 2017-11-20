@@ -7,16 +7,22 @@
     "files": {}
   },
   "installed_plugins": {
-    "cordova-plugin-whitelist": {
-      "PACKAGE_NAME": "com.realdeal.food"
+    "admob": {
+      "PACKAGE_NAME": "com.realdealagency.drn"
     },
     "cordova-plugin-admob-simple": {
-      "PACKAGE_NAME": "com.realdeal.food"
+      "PACKAGE_NAME": "com.realdealagency.drn"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "com.realdealagency.drn"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.realdealagency.drn"
     }
   },
   "dependent_plugins": {
     "cordova-admob-sdklibs": {
-      "PACKAGE_NAME": "com.realdeal.food"
+      "PACKAGE_NAME": "com.realdealagency.drn"
     }
   }
 }

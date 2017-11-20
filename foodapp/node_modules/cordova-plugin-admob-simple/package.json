@@ -10,7 +10,7 @@
         "spec": "latest",
         "type": "tag"
       },
-      "C:\\Users\\DELL\\Desktop\\test_github\\food\\food\\foodapp"
+      "C:\\Users\\DELL\\Desktop\\test_github\\drn\\drn_radio\\drn_radio"
     ]
   ],
   "_from": "cordova-plugin-admob-simple@latest",
@@ -45,7 +45,7 @@
   "_shasum": "efaa5f88f293ef0a3263d62df2ee42f69466b9ee",
   "_shrinkwrap": null,
   "_spec": "cordova-plugin-admob-simple",
-  "_where": "C:\\Users\\DELL\\Desktop\\test_github\\food\\food\\foodapp",
+  "_where": "C:\\Users\\DELL\\Desktop\\test_github\\drn\\drn_radio\\drn_radio",
   "author": {
     "name": "Cupertino"
   },
