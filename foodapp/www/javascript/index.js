@@ -109,5 +109,4 @@ function showInterstitialFunc(){
     window.plugins.AdMob.createInterstitialView();	//get the interstitials ready to be shown and show when it's loaded. 
     window.plugins.AdMob.requestInterstitialAd();
 }
-
 app.initialize();
